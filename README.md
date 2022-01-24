@@ -1,3 +1,3 @@
 # 🏡 website
 
-My personal site!
+My personal site (gh-pages style)!
